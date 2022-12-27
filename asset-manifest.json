@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/KeepApp-React/static/css/main.974d3996.css",
+    "main.js": "/KeepApp-React/static/js/main.1d72f65f.js",
+    "static/media/logo.png": "/KeepApp-React/static/media/logo.275b167fdb3c6514e1b3.png",
+    "index.html": "/KeepApp-React/index.html",
+    "main.974d3996.css.map": "/KeepApp-React/static/css/main.974d3996.css.map",
+    "main.1d72f65f.js.map": "/KeepApp-React/static/js/main.1d72f65f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.974d3996.css",
+    "static/js/main.1d72f65f.js"
+  ]
+}
