@@ -26,8 +26,8 @@ function Form(props) {
   return (
     <div className='container mt-5'>
     <div className="row d-flex justify-content-center">
-    <input type="text" className='col-8 fw-bold' placeholder='Title Here' name='titles' value={inputVal.titles} id='titles' onChange={onChangeHandler}/>
-    <textarea cols="30" rows="10" className='col-8' placeholder='Note Here' name='notes' value={inputVal.notes} id='notes' onChange={onChangeHandler}></textarea>
+    <input type="text" className='col-8 fw-bold p-5' placeholder='Title Here' name='titles' value={inputVal.titles} id='titles' onChange={onChangeHandler}/>
+    <textarea cols="30" rows="10" className='col-8 p-5' placeholder='Note Here' name='notes' value={inputVal.notes} id='notes' onChange={onChangeHandler}></textarea>
     </div>
     <div className="col-10">
     <div className="row d-flex justify-content-end">
